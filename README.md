@@ -24,6 +24,7 @@ Usage
     - GMAIL_LABELS
     - GITHUB_ACCESS_TOKEN
     - GITHUB_REPOSITORY
+    - DOMAINS_TO_IGNORE
     - GITHUB_ISSUE_LABEL(optional)
     - GITHUB_API_ENDPOINT(optional)
 1. Add project trigger(Edit > Current project's triggers > Add trigger)
